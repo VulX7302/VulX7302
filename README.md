@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @VulX7302
-- 👀 I’m interested in offensive Security
+# 👋 Hi, I’m VulX7302
+
+> I'm studying offensive Security
 
 
 <!---
